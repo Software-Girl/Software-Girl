@@ -1,5 +1,3 @@
-# ThisProfile
-
 # 💫 About Me:
 
 <h3 align="center">✌Hola. Soy GirlSoftware:</h3>
