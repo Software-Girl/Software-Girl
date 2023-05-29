@@ -5,8 +5,8 @@
 
 📚Desarrolladora Software Java Junior
 
-Conocimientos y prácticas desde hace un año en Frontend y actualmente enfocada en backend con Java web, Java SE, Java EE con Spring Boot (MVC, Secutiry - JPA). Pruebas unitarias Testing con JUnit. Manejo Azure, en ciberseguridad, manejo GITHUB, Base de Datos SQL, NoSQL
-
+Conocimientos y prácticas desde hace un año en Frontend y actualmente enfocada en backend con Java web, Java SE, Java EE con Spring Boot (MVC, Secutiry - JPA) y pruebas unitarias Testing con JUnit.
+  
 Aptitudes principales
 Java • Spring Security • Spring Data • Spring Boot • JUnit
 
