@@ -3,11 +3,11 @@
 <h3 align="center">✌Hola. Soy GirlSoftware:</h3>
 <p align="center">
 
-# 📚 Desarrolladora Software Java Junior
+📚 Desarrolladora Software Java Junior
 
-# 💯🕹️ Conocimientos y prácticas desde hace un año en Frontend y actualmente enfocada en backend con Java web, Java SE, Java EE con Spring Boot (MVC, Secutiry - JPA) y pruebas unitarias Testing con JUnit.
+💯🕹️ Conocimientos y prácticas desde hace un año en Frontend y actualmente enfocada en backend con Java web, Java SE, Java EE con Spring Boot (MVC, Secutiry - JPA) y pruebas unitarias Testing con JUnit.
   
-# 🤍💡 Aptitudes principales
+🤍💡 Aptitudes principales
 Java • Spring Security • Spring Data • Spring Boot • JUnit
 
 # 💻 Tech Stack:
